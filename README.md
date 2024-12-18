@@ -21,6 +21,6 @@ Welcome to my GitHub profile! I’m a software developer with a passion for buil
 - **[SpendSmart](https://github.com/Nav0708/SpendSmart)**: An app to help students manage their expenses with personalized recommendations.
 
 ## 📫 How to Reach Me
-- Email: [navami@example.com](mailto:navami@example.com)
-- LinkedIn: [Navami Bhat](https://www.linkedin.com/in/navami-bhat/)
+- Email: [bhat.navami08@gmail.com](mailto:bhat.navami08@gmail.com)
+- LinkedIn: [Navami Bhat]([https://www.linkedin.com/in/navamibhat/])
 - Website: [Portfolio](https://nav0708.github.io/Portfolio/)
