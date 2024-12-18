@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I’m a software developer with a passion for buil
 
 ## 🚀 Technologies & Tools
 - **Languages**: JavaScript, TypeScript, Java, Python
-- **Frontend**: React, Angular, HTML, CSS, Tailwind CSS
+- **Frontend**: React, Angular, HTML, CSS
 - **Backend**: Node.js, Express, Spring Boot
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Tools**: Git, Docker, VSCode, Figma
+- **Databases**: MongoDB, MySQL, OracleSQL
+- **Tools**: Git, VSCode, Figma
 
 ## 🌱 Currently Learning
 - **Machine Learning** with Python
