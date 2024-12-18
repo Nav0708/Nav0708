@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I’m a software developer with a passion for buil
 - **Cloud Computing** and **AWS**
 
 ## 📚 Projects
-- **[Wallet Watch](https://github.com/Nav0708/WalletWatch)**: A personal finance management app built with React, Node.js, and MongoDB.
-- **[SpendSmart](https://github.com/Nav0708/SpendSmart)**: An app to help students manage their expenses with personalized recommendations.
+- **[Wallet Watch](https://walletwatch-4-g7dxefauf6fwh8hx.westus-01.azurewebsites.net/%22)**: A personal finance management app built with React, Node.js, and MongoDB.
+- **[SpendSmart](https://spendsmart.my.canva.site/)**: An app to help students manage their expenses with personalized recommendations.
 
 ## 📫 How to Reach Me
 - Email: [bhat.navami08@gmail.com](mailto:bhat.navami08@gmail.com)
