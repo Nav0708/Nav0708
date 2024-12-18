@@ -22,5 +22,5 @@ Welcome to my GitHub profile! I’m a software developer with a passion for buil
 
 ## 📫 How to Reach Me
 - Email: [bhat.navami08@gmail.com](mailto:bhat.navami08@gmail.com)
-- LinkedIn: [Navami Bhat]([https://www.linkedin.com/in/navamibhat/])
+- LinkedIn: [Navami Bhat](https://www.linkedin.com/in/navamibhat/)
 - Website: [Portfolio](https://nav0708.github.io/Portfolio/)
