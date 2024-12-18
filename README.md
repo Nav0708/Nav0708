@@ -1,6 +1,6 @@
 # Hi there, I'm Navami! 👋
 
-Welcome to my GitHub profile! I’m a software developer with a passion for building web applications. I'm currently focused on full-stack development, working with technologies like **React**, **Node.js**, and **Spring Boot**.
+Welcome to my GitHub profile! I’m a software developer with a passion for building web applications. I'm currently focused on Full-Stack Development, working with technologies like **React**, **Node.js**, and **Spring Boot**.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nav0708&show_icons=true&count_private=true&hide=prs&hide_title=true)
 
 
